@@ -1,0 +1,19 @@
+{
+  "name": "testnode",
+  "version": "1.0.0",
+  "description": "Test Node project",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gtlali/TestNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gtlali/TestNode/issues"
+  },
+  "homepage": "https://github.com/gtlali/TestNode#readme"
+}
